@@ -6,13 +6,6 @@ Terminal-friendly monaco font, with extra nerd glyphs, patched with [ryanoasis's
 
 2019-3-18: Updating freetype2 to version `2.10.*` might break the font on Archlinux. To fix it, check https://github.com/Karmenzind/monaco-nerd-fonts/issues/2 (thanks to @guihkx). I'll update the font file at my leisure time.
 
-### files
-
-- Monaco Nerd Font Complete.otf
-- Monaco Nerd Font Complete Windows Compatible.otf
-- Monaco Nerd Font Complete Mono.otf
-- Monaco Nerd Font Complete Mono Windows Compatible.otf
-
 ### usage
 
 Download the font file, mv it to `/usr/share/fonts/<custom-dir>`.
